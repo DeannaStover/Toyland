@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_simplePrint.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_simplePrint.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Citizens of Toyland</title>
+            <author>H. G. Wells</author>
+            <editor role="co-editor">Deanna Stover</editor>
+            <editor role="co-editor">Nigel Lepianka</editor>
+            <respStmt>
+               <resp>co-editor, transcription and encoding</resp>
+               <name xml:id="ds">Deanna Stover</name>
+            </respStmt>
+            <respStmt>
+               <resp>co-editor</resp>
+               <name xml:id="nl">Nigel Lepianka</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2019</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>Publication information</p>        
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title type="main">Citizens of Toyland</title>
+               <author>Herbert George Wells</author>
+               <pubPlace>New York</pubPlace>
+               <publisher>Everybody's Magazine</publisher>
+               <date>December 1911 vol. XXV, no. 6</date>
+               <note type="project">The source text is located on HathiTrust at: "http://hdl.handle.net/2027/mdp.39015012320191"</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+     <revisionDesc>
+        <change who="#ds" when="2019-10-31">edited code for "The Toys to Have"</change>
+        <change who="#ds" when="2019-10-29">transcribed and began encoding "The Toys to Have."</change>
+     </revisionDesc>
+  </teiHeader>
+   
+   
+   
+   
+  <text>
+      <body>
+         <pb n="743"/>
+         <div>
+            <head type="main" rendition="simple:centre">Citizens of Toyland</head>
+            <head type="sub" rendition="simple:centre">by</head>
+            <head type ="sub" rendition="simple:centre">H. G. WELLS</head>
+            <byline rendition="simple:centre">Author of </byline>
+            <byline rendition="simple:centre">"THE NEW MACHIAVELLI."</byline>
+            <byline rendition="simple:centre">"TONO BUNGAY,"</byline>
+            <byline rendition="simple:centre">etc.</byline>
+         </div>
+         <div>
+            <p>Editor's Note:&#8212;When Mr. H. G. Wells publishes a novel in England, it is a national event.
+            Men take sides; for whatever else you may do about Mr. Wells, you can not possibly ignore him. There 
+            he is&#8212;the keenest, most critical mind in England&#8212;a mind to which noth-ing human is foreign.
+            Probably no man in the world has a greater genius for seeing things as they are, a more vivid, concrete
+            sense of what things might be like.</p>
+            <p>When such a man joins his little sons to play games on the floor, with the spirit of youth enthroned,
+            the result is certain to be fine for the boys&#8212;for all boys and their parents He teaches the boys
+            to get more fun out of their toys, teaches them to play new games, with a new appeal. If there are any fathers
+            who don't just know how to play with the youngsters, they will find a charming example in this picture of 
+            a great man of the nursery.</p>
+            <p>And if Mr. Wells also tells how, in romping with the children, he helps them to learn some of their future
+            as citizens, and how, with building-blocks and toy soldiers and toy civilians, to plan what cities and 
+            civilization might be like, it is a further proof of his genius.</p>
+         </div>
+         <div>
+            <cb/>
+            <p>I</p>
+            <p>THE TOYS TO HAVE</p>
+            <p><rs type="supplies">THE jolliest indoor games for boys and girls demand a floor, and the home that has no floor upon which games
+            may be played falls so far short of happiness. It must be a floor covered with linoleum or cork carpet, so
+            that toy soldiers and such like will stand up upon it, and of a color and surface that will take and show
+            chalk-marks; the common green-colored cork carpet without a pattern is best of all. It must be no highway to other
+            rooms, and well-lit and airy.</rs> Occasionally, alas! it must be scrub-bed&#8212;and then a truce to floor games!</p>
+            <p>Upon such a floor may be made an infin-<cb/>itude of imaginative games, not only keep-ing boys and girls
+            happy for days together, but building up a framework of spacious and inspiring ideas in them for after life.
+            The nation will gain new strength from nur-sery floors. I am going to tell of some of these games and what is most
+            needed to play them; I have tried them all and a score of others like them with my sons, and all of the games here
+            illustrated have been set out by us. I am going to tell of them here, because I think what we have done will
+            interest other fathers and mothers and perhaps be of use to them (and to uncles and such like tributary sub-
+            species of hu-manity) in buying presents for their own and other people's children.</p>
+            <p>Now the toys we play with time after time and in a thousand permutations and
+               combinations belong to four main groups:<pb n="744"/>
+               <rs type="supplies"> We have <rs type="soldier">(1) SOLDIERS, and with these I class sailors, railway
+                     porters, civilians, and the lower animals generally, such as I will presently
+                     describe in greater detail;</rs>
+               <rs type="bricks">(2)BRICKS;</rs>
+               <rs type="boards">(3) BOARDS AND PLANKS;</rs>
+                  and <rs type ="train">(4) a lot of CLOCKWORK RAILWAY ROLLING-STOCK AND
+                     RAILS.</rs></rs>
+                  Also there are certain other minor objects&#8212;tin ships, Easter eggs,
+                  plasticine, and the like&#8212;of which I shall make incidental mention,
+                that, like the kiwi and the duck-billed platypus, refuse to be classified.
+               These we arrange and rearrange in various ways upon our floor, making a world of
+               them. In doing so we have found out all sorts of pleasant facts, and also many
+               undesirable possibilities; and very probably our experience will help a reader here
+               and there to the former and save him from the latter.</p>
+            <p><rs type="boards">For instance, our planks and boards and what we can do with them have been a great discovery. lots of boys and girls seem
+            to be quite without planks and boards at all, and there is no regular trade in them. The toy-shops do not keep anything of the
+            sort. (We don't, as a matter of fact, think very much of toy-shops. We think they trifle with great possibilities. We consider
+            them expensive and incompetent, and flatten our noses against their plate glass perhaps, but only in the most critical spirit.)
+            Our boards, which we had to get made by a carpenter, are the basis of half the games we play</rs></p>
+            <p><rs type="boards">The planks and boards we have are of various sizes. We began with three of two yards by one, made with cross-pieces like small
+            doors; but these we found unneces-sarily large, and we would not get them now after our present experience. The best thickness,
+            we think, is an inch for the larger sizes, and three-quarters and a half inch for the smaller; and the best sizes are a yard 
+            square, thirty inches square, two feet, and eighteen inches square&#8212;one or two of each, and a greater number of smaller ones,
+            18 x 9, 9 x 9, and 9 x 4 1-2.</rs></p>
+            <p><rs type="boards">With the larger ones we make islands and archipelagoes on our floor, while the floor is a sea; or we make a larger island, or a 
+            couple in the Venice pattern; or we pile the smaller on the larger to make hills when the floor is level plain; or they roof in railway
+            stations or serve as bridges, in such manner as I will presently illustrate.</rs> And these boards of ours pass into our next most important
+            possession, which is a box of bricks.</p> <cb/>
+            <p><rs type="boards">(But I was nearly forgetting to tell this&#8212;that all the thicker and larger of these boards have holes bored through them. At
+            about every four inches is a hole, a little larger than an ordinary gimlet hole. THese holes have their uses, as I will tell later; but
+            now let me get on to the box of bricks.)</rs></p>
+            <p>This again wasn't a toy-shop acquisition. It came to us by gift from two generous friends, unhappily growing up and very tall at that;
+            and they had it from parents who were one of several families that shared in the benefit of a good uncle. I know nothing vertainly of this
+            man except that he was a Radford of Plymouth. I have never learnt or cared to learn of his commoner occupations, but certainly he was
+            one of those shining and distinguished uncles that tower up at times above the common levels of humanity. At times, when we consider
+            our derived and undeserved share of his inherit-ance and count the joys it gives us, we have projected half in jest and half in earnest
+            the putting together of a little exemplary book upon the subject of such exceptional men. "Celebrated Uncles," it should be called;
+            and it should stir up all who read it to some striving, at least, toward the glories of the avuncular crown.</p>
+            <p>What this great benefactor did was to engage a deserving, unemployed carpenter through an entire winter making big boxes of wooden
+            bricks for the almost innumer-able nephews and nieces with which an appreciative circle of brothers and sisters had blessed him.
+            <rs type="bricks">There are whole bricks 4 1-2 x 2 1-4 x 1 1-8 inches; there are half bricks 2 1-4 x 2 1-4 x 1 1-8, and there are quarters&#8212;called
+            by those previous owners (who have now ascended to, we hope but scarcely believe, a happier life near the ceiling) "piggys." You note
+            how these sizes fit into the sizes of our boards; and of each size&#8212;we have never counted them&#8212;we must have hundreds. We 
+            can pave a dozen square yards of floor with them.</rs></p>
+            <p>How utterly we despise the silly little bricks of the toy-shops! They are too small to make a decent home for even the poorest
+               lead soldiers; even if there were hundred of them&#8212;and there are never enough&#8212;never nearly enough, even if you take
+               one at a time and lay it down and say: "This is a house"&#8212;even then there are not enough. We see rich people, rich people
+            out in motor-cars, people rich be<pb n="746"/>
+            yond the dreams of avarice, going into toy-shops and buying these skimpy, sickly, ridiculous pseudo-boxes of bricklets, be-cause they do
+            not know what to ask for, and the toy-shops are just the merciless, mercenary enemies of youth and happiness&#8212;so far, that is, as
+            bricks are concerned. Their unfortunate, under-parented off-spring mess about with these gifts, and don't make very much of them, and put
+            them away; and you see their consequences in after-life in the weakly-conceived villas and suburbs that people have build all round London.</p>
+            <p>Such poor, under-nourished nurseries must needs fall back upon the Encyclo-pædia Britannica, and even that is becoming flexible and on 
+            India paper! But our box of bricks almost satisfies. With our box of bricks we can scheme and build, all three of us, for the best part 
+            of an hour, and still have more bricks in the box.</p>
+            <p>So much now for the bricks. I will tell later how we use cartridge-paper and card and other things to help in our building, and of the
+            decorative use we make of pas-ticine. Of course, it goes without saying that we despise those foolish, expensive, made-up wooden and 
+            pasteboard castles that are sold in shops; playing with them is like playing with somebody else's dead<cb/>
+            game in a state of <hi rendition="simple:italic">rigor mortis</hi>. Let me now say a little about toy soldiers and the world to which they
+            belong.</p>
+            <p><rs type="soldier">Toy soldiers used to be flat, small crea-tures in my own boyhood, in comparison with the magnificent beings one can buy to-day. There 
+            has been an enormous im-provement in our national physique in this respect. Now they can stand nearly two inches high and look you broadly
+            in the face, and they have the movable arms and alert in-telligence of scientifically exercised men. You get five of them mounted or nine
+            afoot in a box for <measure type="currency">tenpence halfpenny</measure>. We three like those of British manufacture best&#8212;other makes are of incompatible sizes.</rs> And
+            we have a rule that saves much trouble&#8212;that all redcoats belong to G. P. Wells, and all other-colored coats to F. R. Wells&#8212;
+            all gifts, bequests, and accidents notwithstand-ing. Also we have sailors; but, since there are no red-coated sailors, blue counts as red.</p>
+            <p>Then we have Beef-eaters, Red Indians, Zulus, for whom there are special rules. We find we can buy lead dogs, cats, lions,
+            tigers, horses, camels, cattle, and elephants of a reasonably corresponding size, and we have also several boxes of railway porters,
+            and some soldiers we bought in Hesse-Darmstadt that we pass off on an unsus-<pb/>
+               pecting home world as policemen. But we want civilians very badly. <rs type="soldier">We found a box of German civilians once in a shop in Oxford Street
+                  near the Marble Arch, the right size but rather heavy, and running nearly to <measure type="currency">twopence halfpenny apiece</measure> (which is too dear): gentleman,
+            ladies in gray and white, two children and a dog, and so on&#8212;but we have never been able to find any more.</rs> Will toy manufacturers
+            please note? I write now as if I were British Consul-General in Toyland, noting new opportunities for trade.</p>
+            <p><rs type="soldier">Consequent upon this dearth, our little world suffers from an exaggerated curse of militarism, and even the grocer wears epau-lettes.
+            This might please the War Depart-ment, but it certainly does not please us. I wish indeed that we could buy boxes of<cb/>
+            tradesmen: a blue butcher, a white baker with a loaf of standard bread, a draper or so, boxes of servants, boxes of street traffic, smart
+            sets, and so forth. We could do with a judge and barristers, or a box of vestry-men. It is true that we can buy Salvation Army lasses
+            and football players, but we are cold to both of these. We have, of course, boy scouts. With such boxes of civilians we could have much
+            more fun than with the running, marching, swashbuckling soldiery that pervades us. They drive us to reviews, and it is only emperors
+            and kings and very silly small boys who can take an undying interest in uniforms and reviews.</rs></p>
+            <p><rs type="train">And, lastly, of our railways let me merely remark here that we have always insisted upon one uniform gauge. We have adhered rigidly
+            to gauge o, and everything we buy<pb n="747"/>
+            fits into and develops our existing railway system. Nothing is more indicative of a wambling sort of parent and a coterie of witless, 
+            worthless uncles, than a heap of railway toys of different gauges and natures in the children's play-room.</rs> And so, hav-ing told you
+            of the material we have, let me now tell you of one or two games (out of innumerably many) that we have played. Of course in this
+            I have to be a little arti-ficial. Actual games of the kind I am illus-trating here have been played by us, many and many a time, with 
+            joy and happy in-vention and no thought of publication. They have gone now, those games, into that vaguely luminous and iridescent
+            world of memories into which all love-engendering happiness must go. But we have tried our best to set them out again and recall
+            the good points in them here.</p>
+         </div>
+
+      </body>
+  </text>
+</TEI>
